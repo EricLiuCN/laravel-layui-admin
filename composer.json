@@ -1,5 +1,5 @@
 {
-    "name": "moell/laravel-layui-admin",
+    "name": "ericliucn/laravel-layui-admin",
     "description": "基于 Laravel, Layui 构建的 RBAC 后台管理系统。",
     "keywords": ["laravel", "admin", "layui", "layui admin", "laravel layui admin", "laravel admin"],
     "type": "library",
@@ -11,7 +11,7 @@
         }
     ],
     "require": {
-        "spatie/laravel-permission": "~3.0"
+        "spatie/laravel-permission": "~5.5"
     },
     "autoload": {
         "psr-4": {
