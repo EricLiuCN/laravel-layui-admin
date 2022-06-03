@@ -19,7 +19,7 @@
 首先安装laravel, 并且确保你配置了正确的数据库连接。
 
 ```
-composer require moell/laravel-layui-admin
+composer require ericliucn/laravel-layui-admin
 ```
 
 然后运行下面的命令来发布资源和配置:
